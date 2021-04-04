@@ -5,10 +5,6 @@ html {
     font-family: Verdana, sans-serif;
 }
 
-body {
-    padding: 0px 70px 0px 70px;
-}
-
 h1 {
     font-size: 50px;
     font-weight: normal;
@@ -35,6 +31,7 @@ footer img {
 
 footer p {
     text-align: right;
+    padding-right: 10px;
 }
 
 a {
