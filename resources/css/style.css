@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    padding: 0px 70px 0px 70px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+video {
+    padding-top: 20px;
+}
+
+
+footer img {
+    padding-top: 20px;
+}
+
+footer p {
+    text-align: right;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
